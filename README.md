@@ -12,6 +12,8 @@
 - ✅ Rock-Paper-Scissor (HTML, CSS ,Js)-
 - ✅ To-Do Task  (HTML, CSS ,Js)-
 - ✅ Weather-app (HTML, CSS ,Js)-
+- ✅ QR-Generator (HTML, CSS ,Js)-
+ 
 - 📂 More projects coming soon...
 
 - if you want to view my  projects then you can view , they are all in my profile
